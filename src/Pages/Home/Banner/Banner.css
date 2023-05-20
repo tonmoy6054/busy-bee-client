@@ -1,0 +1,7 @@
+.parent-banner{
+    display: flex;
+}
+
+.w-96 m-5{
+    flex: 1;
+}

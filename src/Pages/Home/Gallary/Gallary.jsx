@@ -15,10 +15,10 @@ const GallerySection = () => {
   
   return (
     <div className='marquee'>
-        <h2 className='font-bold text-4xl'>Gallary Section</h2>
+        <h2 className='font-bold text-4xl mx-5'>Gallary Section</h2>
         <Marquee>
   
-  <div className="gallery-section">
+  <div className="gallery-section mx-5">
         
         {imageUrls.map((imageUrl, index) => (
           <img

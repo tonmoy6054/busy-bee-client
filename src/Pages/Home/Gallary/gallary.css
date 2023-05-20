@@ -1,13 +1,8 @@
-.marquee{
-    margin-top: 5x;
-}
-
-
-
 .gallery-section{
  width: 150px;
     height: 150px;
     display: flex;
     margin-top: 50px;
     margin-bottom: 50px;
+    
 }
