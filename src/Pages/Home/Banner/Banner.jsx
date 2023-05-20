@@ -6,15 +6,18 @@ import '../Banner/Banner.css'
 const Banner = () => {
     return (
         <div className='parent-banner'>
+          <h2 className='text-3xl text-yellow-500 font-bold m-5'>We have:</h2>
           <div className='flex w-97 m-5'>
+            
           <h2 className='font-bold text-2xl mt-5'><ul><li>1.Department
 Toys & Games</li>
+
 <li>2.Baby Musical Toys</li>
 3.Sorting & Stacking Toys <br></br>
-4.Stuffed Animals & Teddy Bears 
-5.Activity Cubes 
+4.Stuffed Animals & Teddy Bears <br></br>
+5.Activity Cubes <br></br>
 6.Learning & Education Toys 
-7.Dog Squeak Toys 
+7.Dog Squeak Toys <br></br>
 8.Baby Products</ul></h2>
 
           <div className="carousel w-full">

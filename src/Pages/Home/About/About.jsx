@@ -13,8 +13,8 @@ const About = () => {
           <div className='lg:w-1/2'>
             <h3 className='text-3xl text-orange-500 font-bold'>About Us</h3>
             <h3 className="text-2xl font-bold">Experience the joy of baby toys</h3>
-            <p className="py-6">The best selection of baby toys in Bangladesh at our store! We offer a wide range of safe, educational and fun toys for babies of all ages. Our toys are designed to promote developmental skills, encourage imaginative play and provide endless hours of enjoyment for your little one. Made from high-quality materials, our toys are both durable and affordable. Whether you’re looking for a cute stuffed animal, interactive toy or educational puzzle, we have it all. Order now and bring a smile to your baby’s face with our top-rated baby toys in Bangladesh!</p>
-            <button className="btn btn-primary">Get Started</button>
+            <p className="py-7">The best selection of baby toys in Bangladesh at our store! We offer a wide range of safe, educational and fun toys for babies of all ages. Our toys are designed to promote developmental skills, encourage imaginative play and provide endless hours of enjoyment for your little one. Made from high-quality materials, our toys are both durable and affordable. Whether you’re looking for a cute stuffed animal, interactive toy or educational puzzle, we have it all. Order now and bring a smile to your baby’s face with our top-rated baby toys in Bangladesh!</p>
+            <button className="btn btn-warning">Get More Info</button>
           </div>
         </div>
       </div>
