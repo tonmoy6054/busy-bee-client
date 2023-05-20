@@ -3,10 +3,16 @@ import logo from '../../../assets/My-project.svg'
 
 const Navbar = () => {
   const navItems = <>
-   <li><a>Homepage</a></li>
-              <li><a>Portfolio</a></li>
-              <li><a>About</a></li>
- </>
+  <li><Link to="/">Home</Link> </li>
+  <li> <Link to="/blogs">Blogs</Link> </li>
+  
+      <li><Link to="/alltoys">All Toys</Link></li>
+      <li><Link to="/mytoys">My Toys</Link></li>
+      <li><Link to="/addatoys">Add a Toy</Link></li>
+      <li><Link to="/userimg">User Image</Link></li>
+     
+  </> 
+
     return (
       <div className="navbar bg-base-100 h-28 mb-4">
       <div className="navbar-start">
@@ -22,14 +28,12 @@ const Navbar = () => {
               <img src={logo} alt="" />
           </Link>
       </div>
-      <div className="navbar-center hidden lg:flex">
+      <div className="navbar-center lg:flex">
           <ul className="menu menu-horizontal px-1">
               {navItems}
           </ul>
       </div>
-      <div className="navbar-end">
-      <button className="btn btn-outline btn-warning">Appointment</button>
-      </div>
+      
   </div>
     );
 };
