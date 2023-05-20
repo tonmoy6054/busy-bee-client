@@ -7,7 +7,7 @@ const Banner = () => {
     return (
         <div className='parent-banner'>
           <div className='flex w-97 m-5'>
-          <h2 className='font-bold text-2xl'><ul><li>1.Department
+          <h2 className='font-bold text-2xl mt-5'><ul><li>1.Department
 Toys & Games</li>
 <li>2.Baby Musical Toys</li>
 3.Sorting & Stacking Toys <br></br>
@@ -16,6 +16,7 @@ Toys & Games</li>
 6.Learning & Education Toys 
 7.Dog Squeak Toys 
 8.Baby Products</ul></h2>
+
           <div className="carousel w-full">
         <div id="slide1" className="carousel-item relative w-full">
           <img src={img1} className="w-full" />
