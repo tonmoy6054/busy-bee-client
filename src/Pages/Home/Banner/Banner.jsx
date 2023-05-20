@@ -6,10 +6,10 @@ import '../Banner/Banner.css'
 const Banner = () => {
     return (
         <div className='parent-banner'>
-          <h2 className='text-3xl text-yellow-500 font-bold m-5'>We have:</h2>
+          <h2 className='text-3xl text-yellow-500 font-bold m-5'>We are offering</h2>
           <div className='flex w-97 m-5'>
             
-          <h2 className='font-bold text-2xl mt-5'>
+          <h2 className='font-bold text-2xl mt-3 text-green-500 underline'>
 
 <a className="link link-hover">Department
 Toys & Games</a><br></br>
