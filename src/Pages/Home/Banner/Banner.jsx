@@ -9,18 +9,19 @@ const Banner = () => {
           <h2 className='text-3xl text-yellow-500 font-bold m-5'>We have:</h2>
           <div className='flex w-97 m-5'>
             
-          <h2 className='font-bold text-2xl mt-5'><ul><li>1.Department
-Toys & Games</li>
+          <h2 className='font-bold text-2xl mt-5'>
 
-<li>2.Baby Musical Toys</li>
-3.Sorting & Stacking Toys <br></br>
-4.Stuffed Animals & Teddy Bears <br></br>
-5.Activity Cubes <br></br>
-6.Learning & Education Toys 
-7.Dog Squeak Toys <br></br>
-8.Baby Products</ul></h2>
-
-          <div className="carousel w-full">
+<a className="link link-hover">Department
+Toys & Games</a><br></br>
+<a className="link link-hover">Baby Musical Toys</a><br></br>
+<a className="link link-hover">Sorting & Stacking Toys</a><br></br>
+<a className="link link-hover">Stuffed Animals & Teddy Bears</a><br></br>
+<a className="link link-hover">Activity Cubes</a><br></br>
+<a className="link link-hover">Learning & Education Toys</a><br></br>
+<a className="link link-hover">Dog Squeak Toys</a><br></br>
+<a className="link link-hover">Baby Products</a><br></br>
+</h2>
+ <div className="carousel w-full">
         <div id="slide1" className="carousel-item relative w-full">
           <img src={img1} className="w-full" />
           <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
