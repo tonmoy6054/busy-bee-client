@@ -1,5 +1,4 @@
-{
-    "toys": [
+[
       {
         "id": "1",
         "picture": "https://i.ibb.co/d4rxkGd/540963-1-NEW-1200-Wx1200-H-context-b-WFzd-GVyf-HJvb3-R8-MTk5-MTA2f-Glt-YWdl-L3-Bu-Z3xo-Njgva-Dc4-Lz.png",
@@ -46,8 +45,120 @@
         "price": "$14.99",
         "rating": 4.8
        
+      },
+      {
+        "id": "7",
+        "picture": "https://i.ibb.co/m5NSg3Z/818nnw02tl-L-AC-SX425.jpg",
+        "name": "Musical Instruments",
+        "price": "$14.69",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "8",
+        "picture": "https://i.ibb.co/TqzSQcF/c8e96809ad594eb4814403491c831581.jpg",
+        "name": "Bicycle",
+        "price": "$14.979",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "9",
+        "picture": "https://i.ibb.co/tKY1x7g/9c42fe935c769ab00b806b2ad7d5300f-jpg-720x720-jpg.webp",
+        "name": "TeddyBear",
+        "price": "$4.99",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "10",
+        "picture": "https://i.ibb.co/m5Rtpmx/84170138.jpg",
+        "name": "Kite",
+        "price": "$1.99",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "11",
+        "picture": "https://i.ibb.co/XjS2PL3/fa120.jpg",
+        "name": "Fat Brain Oombee Cube",
+        "price": "$1.99",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "12",
+        "picture": "https://i.ibb.co/yVCZCv3/43da0e52403b9bdd094de6c8beb90f4f-png-720x720-jpg.webp",
+        "name": "Push Pull Toys",
+        "price": "$14.89",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "13",
+        "picture": "https://i.ibb.co/HdGTgk2/51-VXg-NZFIo-L.jpg",
+        "name": "Rubber duck",
+        "price": "$14.79",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "14",
+        "picture": "https://i.ibb.co/QQ1CgRX/63400ce43765bb61926f3734-aperfectlife-kids-keyboard-piano-32.jpg",
+        "name": "Piano",
+        "price": "$14.90",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "15",
+        "picture": "https://i.ibb.co/68pVzdB/817-c-DUVLWL.jpg",
+        "name": "Music Instruments",
+        "price": "$1.99",
+        "rating": 4.8
+       
+      },
+      {
+        "id": "16",
+        "picture": "https://i.ibb.co/PjZmfFS/61iiig3-QZk-L.jpg",
+        "name": "Fat Brain SpinnyPins",
+        "price": "$14.99",
+        "rating": 4.5
+       
+      },
+      {
+        "id": "17",
+        "picture": "https://i.ibb.co/7ySJrc2/Tobbles-Neo-main.jpg",
+        "name": "Fat Brain Tobbles Neo",
+        "price": "$14.99",
+        "rating": 4.6
+       
+      },
+      {
+        "id": "18",
+        "picture": "https://i.ibb.co/Bt4gZYB/97c8d0278a5c9d87ec09dd77f138971d.jpg",
+        "name": "Doll",
+        "price": "$14.99",
+        "rating": 4.7
+       
+      },
+      {
+        "id": "19",
+        "picture": "https://i.ibb.co/tD3b6Y3/manhattan-toy-tree-top-adventure-sensory-table-sensory-table.jpg",
+        "name": "Manhattan Toy",
+        "price": "$14.99",
+        "rating": 4.3
+       
+      },
+      {
+        "id": "20",
+        "picture": "https://i.ibb.co/5xrdXkT/51h-ULbrh1-WL-AC.jpg",
+        "name": "Baby Einstein",
+        "price": "$14.69",
+        "rating": 4.6
+       
       }
       
     ]
-  }
+  
   
